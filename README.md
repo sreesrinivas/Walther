@@ -1,2 +1,2 @@
 # Walther !
-Version
+Version 2.0
